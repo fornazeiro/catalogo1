@@ -48,3 +48,4 @@ C:\Curso .Net6\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.Op
 C:\Curso .Net6\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Curso .Net6\CatalogoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Curso .Net6\CatalogoAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Curso .Net6\CatalogoAPI\obj\Debug\net6.0\CatalogoAPI.sourcelink.json
